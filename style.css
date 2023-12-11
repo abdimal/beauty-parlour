@@ -1,0 +1,214 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.one{
+    background-color: rgb(248, 215, 220);
+}
+.onyy{
+    width: 100%;
+    height: 80vh;
+    background-image: url(images/backone.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}
+.top{
+    width: 80%;
+    height: 10vh;
+    background-color: rgb(14, 14, 14);
+    margin-left: 10%;
+    display: flex;
+   justify-content: space-evenly;
+   
+}
+.top1 h1{
+    color: white;
+   display: inline-block;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.top2 ul{
+    list-style-type: none;
+}
+.top2 li{
+   display: inline-block;
+   padding: 20px;
+}
+.top2 a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.top2 a:hover{
+   color:  rgb(247, 156, 171);
+}
+.top3 button{
+    margin-top: 13px;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(247, 156, 171);
+    border-radius: 10px;
+}
+.top3 button:hover{
+    background-color: palevioletred;
+}
+.two{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 250px;
+}
+.sectthree{
+    display: flex;
+}
+.sectthree-one h1{
+font-size: 40px;
+margin-left: 300px;
+}
+.sectthree-one p{
+    font-size: 20px;
+    margin-left: 300px;
+}
+.vertical-line {
+    height: 150px;
+    border-left: 3px solid black; /* You can customize the color and thickness */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sectthree-two p{
+font-size: 30px;
+margin-left: 15px;
+font-style: italic;
+}
+.sectfour{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sectfour-one img{
+   width: 100%;
+   height: 70vh;
+   
+}
+.sectfour-two h1{
+color: rgb(247, 156, 171);
+text-align: center;
+}
+.sectfour-two p{
+font-size: 20px;
+font-style: oblique;
+}
+.sectfour-two{
+    width: 40%;
+    height: 70vh;
+    border: 2px solid black;
+}
+.sectfour-two button{
+    padding: 30px;
+    color: white;
+    background-color:  rgb(247, 156, 171);
+    margin-left: 200px;
+    border-radius: 30px;
+}
+.sectfive-one h1{
+font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+margin-top: 20px;
+}
+.sectfive-one p{
+    width: 60%;
+    margin-left: 350px;
+    font-size: 20px;
+    font-style: italic;
+}
+table {
+    border-collapse: collapse;
+    /* width: 300px; */
+}
+td {
+    /* border: 1px solid #ddd; */
+    padding: 8px;
+    text-align: left;
+    
+}
+
+.product-name {
+    font-size: 30px;
+    margin-left: 10px;
+}
+.product-price {
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.horizontal_line {
+    width: 600px;
+    height: 3px;
+    border-top: 3px solid black;
+    margin: 0;
+    padding: 0;
+}
+.sectfive-two p{
+width: 600px;
+}
+.first{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sectsix-one img{
+width: 100%;
+height: 300px;
+border-radius: 20px;
+}
+.sectsix-one{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 100px;
+}
+.sectsix-one p{
+    font-size: 18px;
+    font-style: italic;
+}
+.sectseven-one img{
+    width: 100%;
+    height: 400px;
+}
+.sectseven h1{
+text-align: center;
+}
+.sectseven-one{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sectseven-one p{
+    font-style: italic;
+}
+.well2{
+margin-top: 50px;
+}
+.well3{
+margin-top: 100px;
+}
+.well4{
+margin-top: 150px;
+}
+.secteight{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.secteight p{
+font-size: 20px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.secteight h1{
+    font-style: italic;
+}
+
+
